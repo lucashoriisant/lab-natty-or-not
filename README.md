@@ -1,4 +1,5 @@
-# The Future of Artificial Intelligence in 1 Minute (O Futuro da Inteligência Artificial em 1 Minuto)
+# The Future of Artificial Intelligence in 1 Minute 
+(O Futuro da Inteligência Artificial em 1 Minuto)
 
 ## 📒 Descrição
 Breve descrição do seu projeto
