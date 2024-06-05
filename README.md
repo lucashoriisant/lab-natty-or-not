@@ -2,7 +2,7 @@
 (O Futuro da Inteligência Artificial em 1 Minuto)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto tem como finalidade aplicar os conhecimentos adquiridos, através de Inteligências Artificiais Generativas. Onde será proporcionado como produto final, um vídeo legendado, com animações, narração e música de fundo.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa ChatGPT (https://chatgpt.com/) para criação do script e revisão;
@@ -15,7 +15,8 @@ O DeepL foi uma excelente ferramenta de tradução.
 O Pictory, foi a ferramenta mais expetacular que utilizei, através do meu script, ele gerou as legendas do vídeo, por meio do conteúdo abordado ele criou as animações e o efeito de fundo (Background Music), por meio do seu gerador de voz (VoiceOver) foi possível transmitir a mensagem do vídeo, de forma eloquente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Acesse o resultado final por meio desse link:
+https://youtu.be/OQ-4M4nBj8M?si=c0LL0FaWUTmc8Zo4
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Obtive uma excelente experiência em utilizar várias Inteligências Artificiais Generativas, gostaria de posteriormente implementar o E-BOOK e o Podcast.
